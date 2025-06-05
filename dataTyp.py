@@ -1,3 +1,5 @@
+#i am editig the cords
+
 number= 100
 print(type(number))
 
